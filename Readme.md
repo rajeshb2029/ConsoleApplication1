@@ -1,1 +1,1 @@
-# Testing Visual Basic console application
+# Visual Basic console test application
